@@ -55,6 +55,7 @@ main()
 	v_tan = tan(x;)
 	printf("the vale of sin(%lf)is %lf\n\n", x, v_sin);
 	printf("the vale of cos(%lf)is %lf\n\n",x,v_cos);
+	printf("the vale of tan(%lf)is %lf\n\n",x,v_tan);
 
 
 }
